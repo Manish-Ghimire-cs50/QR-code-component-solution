@@ -1,0 +1,47 @@
+    html,body {
+        height:100%;
+        width:100%;
+        background-color:hsl(212, 45%, 89%);
+        padding:0;
+        margin:0;
+    }
+
+    .attribution a { 
+        color: hsl(228, 45%, 44%); 
+    }
+    .attribution {
+        width: 405px;
+        height: 638px;
+        display: block;
+        margin: 186px 498px 186px 498px;
+        background-color: white;
+        border-radius: 25px;
+    }
+    img {
+        display: block;
+        margin-top: 25px;
+        padding-top: 25px;
+        margin-bottom: auto;
+        margin-right: auto;
+        margin-left: auto;
+        width: 85%;
+        border-radius: 25px;
+    }
+
+    .toptext {
+        font-weight: bold;
+        font-family: 'Open Sans', sans-serif;
+        font-size: 1.5rem;
+        color: #002F63;
+        margin: 20px 45px;
+        text-align: center;
+    }
+
+    .bottomtxt {
+        text-align: center;
+        font-size: 1.2rem;
+        font-family: sans-serif;
+        font-weight: normal;
+        margin: 0px 45px;
+        color: hsl(220, 15%, 55%);
+    }
